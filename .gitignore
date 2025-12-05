@@ -1,0 +1,20 @@
+# .gitignore
+```
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JSON data files (if you want to ignore user data)
+# Uncomment if you don't want to push user data
+# user.json
+# user_tasks.json
